@@ -1,0 +1,32 @@
+body {
+    background-color: beige; 
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: justify;
+    margin: 1.6; 
+    line-height: 35px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+hr {
+    border: none; height: 3px; background-color:brown;
+}
+
+.text1 {
+    font-variant: small-caps; 
+    text-indent: 40px;
+}
+.text2 {
+    font-style: italic;
+}
+.text3 {
+    font-weight: bold; 
+    text-indent: 40px;
+}
+.text4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
